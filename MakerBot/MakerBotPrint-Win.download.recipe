@@ -14,8 +14,6 @@
         <string>https://www.makerbot.com/download-print/</string>
         <key>PLATFORM</key>
         <string>x64</string>
-        <key>USER_AGENT</key>
-        <string>curl/7.21.4</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.9</string>
