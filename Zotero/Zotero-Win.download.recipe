@@ -17,8 +17,6 @@
 		<key>VERSION_SEARCH_PATTERN</key>
 		<string>"win32":"(?P&lt;version&gt;[0-9.]+)"</string>
 		<!--5.0.7/Zotero-5.0.7_setup.exe-->
-		<key>SEARCH_PATTERN</key>
-		<string>(?P&lt;exe&gt;download.zotero.org/standalone/(?P&lt;version&gt;[0-9.]+)/Zotero-[0-9.]+_setup\.exe)</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.9</string>
