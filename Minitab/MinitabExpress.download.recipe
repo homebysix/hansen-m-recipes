@@ -10,8 +10,6 @@
     <dict>
         <key>NAME</key>
         <string>Minitab Express Multi-User</string>
-        <key>SEARCH_URL</key>
-        <string>https://www.minitab.com/en-us/downloads</string>
         <key>LOCALE</key>
         <string>en-us</string>
         <key>SEARCH_PATTERN</key>

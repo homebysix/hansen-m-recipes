@@ -10,8 +10,6 @@
     <dict>
         <key>NAME</key>
         <string>Nebulosity3</string>
-        <key>SEARCH_URL</key>
-        <string>https://www.stark-labs.com/downloads.html</string>
         <key>DOWNLOAD_URL</key>
         <string>https://www.stark-labs.com/downloads_files/Nebulosity3.dmg</string>
     </dict>

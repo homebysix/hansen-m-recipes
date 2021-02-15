@@ -10,8 +10,6 @@
     <dict>
         <key>NAME</key>
         <string>FileZilla</string>
-        <key>SEARCH_URL</key>
-        <string>https://download.filezilla-project.org/client/</string>
         <key>VERSION_URL</key>
         <string>https://filezilla-project.org/download.php?type=client</string>
         <key>CHANNEL</key>
